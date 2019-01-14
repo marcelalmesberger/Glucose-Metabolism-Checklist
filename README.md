@@ -1,2 +1,2 @@
 # Natural-Language-Understanding
-Node.js Application
+Node.js Application using Microsoft LUIS
