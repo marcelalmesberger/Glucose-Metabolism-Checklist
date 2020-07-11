@@ -1,4 +1,4 @@
-# Natural-Language-Understanding
+# Glucose Metabolism Checklist
 Node.js Application which recognises natural language and saves important data of the glucose metabolism in a checklist.
 
 ## Prerequisites
