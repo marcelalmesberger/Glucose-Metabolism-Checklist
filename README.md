@@ -3,7 +3,7 @@ Node.js Application which recognises natural language and saves important data o
 
 ## Used technologies
 
-HTML, JavaScript, Bootstrap, jQuery, Node.js, Express.js, Microsoft Azure
+HTML, JavaScript, Bootstrap, jQuery, Node.js, Express.js, Socket.io, Microsoft Azure
 
 ## Prerequisites
 
