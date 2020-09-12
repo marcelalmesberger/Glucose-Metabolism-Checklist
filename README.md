@@ -1,6 +1,10 @@
 # Glucose Metabolism Checklist
 Node.js Application which recognises natural language and saves important data of the glucose metabolism in a checklist.
 
+## Used technologies
+
+HTML, JavaScript, Bootstrap, jQuery, Node.js, Express.js, Microsoft Azure
+
 ## Prerequisites
 
 1. Install [Node.js](https://nodejs.org/en/) on your computer
